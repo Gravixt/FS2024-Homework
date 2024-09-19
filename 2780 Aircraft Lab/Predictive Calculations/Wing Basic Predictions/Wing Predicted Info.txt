@@ -1,0 +1,11 @@
+Predicted Wing Specifications:
+
+Span ~ 57.3125 (57 and 5/16ths) inches (4.776 ft)
+Chord ~ 9.1875 (9 and 3/16ths) inches (0.818 ft)
+Planform Area ~ 526.56 in^2 (3.66 ft^2)
+Aspect Ratio ~ 6.24
+
+Predicted Performance:
+
+Stall Speed ~ 12.77 ft/s
+Wing Loading ~ 0.23 lb/ft^2
